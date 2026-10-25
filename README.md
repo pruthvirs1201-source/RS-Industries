@@ -25,7 +25,7 @@ Open `index.html` in a modern web browser. The site is static HTML, CSS, and Jav
 ## Important before going live
 
 - The enquiry form currently opens the visitor's default email app using a `mailto:` link. It does not submit to a server or store enquiries.
-- The recipient email is intentionally not hard-coded because the official RS Industries contact email has not yet been provided. Update the form's JavaScript mailto target in `index.html` to the correct business email before launch.
+- The enquiry form is configured to prepare emails addressed to `rsindustries.p@gmail.com`. It relies on the visitor having a default email application configured.
 - Add the official phone number, business address, confirmed product range, and any verified certifications or supplier brands before publishing.
 - Product categories are presented as indicative sourcing categories; confirm actual availability and scope before making specific claims.
 
