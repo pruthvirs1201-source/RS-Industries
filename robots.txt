@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pruthvirs1201-source.github.io/RS-Industries/sitemap.xml
