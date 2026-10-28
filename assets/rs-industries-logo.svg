@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">RS Industries logo</title><desc id="desc">Navy RS monogram with silver gear and orange accent, Technical Consumables and Industrial Supply.</desc>
+<rect width="900" height="520" rx="22" fill="#ffffff"/>
+<g transform="translate(170 35)">
+<path d="M445 45l18 34 36-7 7 36 36 10-5 37 31 19-17 33 23 30-28 25 10 36-36 12-4 37-38-1-15 34-34-16-26 26-26-26-34 16-15-34-38 1-4-37-36-12 10-36-28-25 23-30-17-33 31-19-5-37 36-10 7-36 36 7 18-34 31 20z" fill="#68727b" opacity=".95" transform="translate(0 0) scale(.72)"/>
+<path d="M-15 130H175c52 0 70 62 19 79l-68 1 86 86H95l-54-57-47 57h-78l67-95h149c13 0 13-20 0-20H-15z" fill="#082f4e"/>
+<path d="M203 130h205l-29 42H244c-20 0-20 23 0 23h84c83 0 93 100 4 100H177l-35-42h186c21 0 21-20 0-20h-91c-84 0-102-103-34-103z" fill="#082f4e"/>
+<path d="M70 246l44 0-22-31z" fill="#f28a28" transform="translate(-16 20)"/>
+<path d="M-68 310C80 365 300 348 416 184" fill="none" stroke="#747d85" stroke-width="12" stroke-linecap="round"/>
+<path d="M190 100C300 25 450 58 467 150" fill="none" stroke="#747d85" stroke-width="9" stroke-linecap="round"/>
+</g>
+<text x="450" y="405" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="10" fill="#082f4e">INDUSTRIES</text>
+<text x="450" y="454" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#4d5660">Technical Consumables &amp; Industrial Supply</text>
+<path d="M85 490H225M675 490H815" stroke="#9aa1a8" stroke-width="2"/>
+<text x="450" y="499" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#082f4e">BUILDING BETTER TOGETHER</text>
+</svg>
